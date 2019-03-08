@@ -1,0 +1,5 @@
+{
+  "run_test.py": true,
+  "test_sy.py::test_add": true,
+  "tset.py::test_add": true
+}
